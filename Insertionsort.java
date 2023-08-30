@@ -30,7 +30,7 @@ void out()
     
    
 }
-void vijay()
+void display()
 {
 
 System.out.println(" ELEMENTs are arranged:");
@@ -40,13 +40,13 @@ for(int i=0;i<n;i++)
 }
 
 }
-class m
+class Dd
 { 
   public static void main(String v[]) throws Exception
   {
     insert i1=new insert();
     i1.input();
     i1.out();
-    i1.vijay();
+    i1.display();
   }
 }   
